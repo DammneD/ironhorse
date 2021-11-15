@@ -1,0 +1,12 @@
+[22-Oct-2018 11:59:38 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php on line 15
+[22-Oct-2018 19:22:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php on line 15
+[22-Oct-2018 19:22:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bh64317/calc.dammned.ru/wp-content/themes/ironhorse/index.php on line 15
