@@ -1,6 +1,6 @@
 # Iron Horse
 
-This is a lending page for Royal stables
+This is a lending page for Royal stables - luxury car wash located in Minsk
 
 [Demo link <--](https://ironhorse.dammned.ru/)
 
