@@ -1,1 +1,24 @@
-# ironhorse
+# Iron Horse
+
+This is a lending page for Royal stables
+
+[Demo link <--](https://ironhorse.dammned.ru/)
+
+Adaptive:
+
+- Large screens 2560px
+- Full HD 1920px
+- Notebook 1280px
+- Tablet 1024
+- Mobile (> 320px)
+
+**TECHNOLOGIES:**
+
+- CMS WordPress
+- HTML
+- SCSS
+- JavaScript
+- JQuery
+- BEM
+- Flexbox
+- Bootstrap
